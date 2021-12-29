@@ -63,7 +63,10 @@
     <version>7.1.0</version>
 </dependency>
 
-<properties><maven.compiler.source>6</maven.compiler.source><maven.compiler.target>1.6</maven.compiler.target></properties>
+<properties>
+  <maven.compiler.source>6</maven.compiler.source>
+  <maven.compiler.target>1.6</maven.compiler.target>
+    </properties>
 
   
   
